@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/CF--DNS--Clon-Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Deploy to Cloudflare Workers">
   </a>
   <p><strong>一个能让你轻松“白嫖”别人优选域名的 Cloudflare Worker 工具</strong></p>
-  <a href="https://t.me/crow187">
+  <a href="https://t.me/cfwuya1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
